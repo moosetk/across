@@ -2,7 +2,7 @@
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 # Usage:  debian 9/10 one_key naiveproxy： https://github.com/klzgrad/naiveproxy
-# install: bash <(curl -s https://raw.githubusercontent.com/mixool/across/master/naiveproxy/naiveproxy.sh) my.domain.com
+# install: bash <(curl -s https://raw.githubusercontent.com/moosetk/across/master/naiveproxy/naiveproxy.sh) my.domain.com
 # uninstall: apt purge caddy -y
 
 # tempfile & rm it when exit
